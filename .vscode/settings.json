@@ -1,0 +1,7 @@
+{
+	"files.associations": {
+		"*.h": "objective-c",
+		"ostream": "cpp",
+		"iostream": "cpp"
+	}
+}
